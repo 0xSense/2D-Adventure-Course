@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bu2il10lpmpqx"
-path="res://.godot/imported/tilemap_packed.png-b4e4d541397495586efafaf8e5c09e25.ctex"
+uid="uid://d1cwh47fi3xqy"
+path="res://.godot/imported/basic_enemy.png-bcb3ae4d01d42218b1191142bc5bacbb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Environment/tilemap_packed.png"
-dest_files=["res://.godot/imported/tilemap_packed.png-b4e4d541397495586efafaf8e5c09e25.ctex"]
+source_file="res://scenes/basic_enemy/basic_enemy.png"
+dest_files=["res://.godot/imported/basic_enemy.png-bcb3ae4d01d42218b1191142bc5bacbb.ctex"]
 
 [params]
 

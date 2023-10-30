@@ -2,7 +2,7 @@ using Godot;
 using System;
 using System.Linq;
 
-public partial class game_camera : Camera2D
+public partial class GameCamera : Camera2D
 {
 	// Called when the node enters the scene tree for the first time.
 	Variant target_position = Vector2.Zero;
@@ -15,7 +15,6 @@ public partial class game_camera : Camera2D
 	public override void _Process(double delta)
 	{
 		AcquireTarget();
-		GlobalPosition = GlobalPosition.Lerp((Vector2)target_position, (float).5);
 	}
 
 	public void AcquireTarget()
